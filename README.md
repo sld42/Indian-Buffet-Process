@@ -5,4 +5,4 @@ The Indian Buffet Process (IBP) is a Bayesian nonparametric method for unsupervi
 
 The IBP generates binary matrices by having "customers" arrive at a buffet line and select dishes. The intial customer selects a certain number of dishes 
 
-![](images/NB_figure_1.png?raw=true)
+![](images/figure_1.png?raw=true)
